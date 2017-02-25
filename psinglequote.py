@@ -7,4 +7,4 @@ if anchor > caret:
 editor.replaceSel("'" + editor.getSelText() + "'")
 editor.setSelection(caret + 2, anchor)
 
-# Shortcut: Ctrl+Alt+3
+# Suggested shortcut: Ctrl+Alt+3
