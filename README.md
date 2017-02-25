@@ -1,9 +1,9 @@
 # npp-enclose
 Small collection of Python scripts that enable add/remove of quotes and brackets around selected text in Notepad++
 
-For use with the PythonScript plugin: http://npppythonscript.sourceforge.net.
+Use with the PythonScript plugin: http://npppythonscript.sourceforge.net.
 
-INSTRUCTIONS FOR USE:
+INSTRUCTIONS:
 1. Install PythonScript using Notepad++'s built-in Plugin Manager
 2. For each script, click Plugins > Python Script > New script, choose an appropriate file name and click 'Save'.
 3. Paste the code, modify if needed and save the file.
